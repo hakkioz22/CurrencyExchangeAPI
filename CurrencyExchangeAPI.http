@@ -1,0 +1,5 @@
+@CurrencyExchangeAPI_HostAddress = http://localhost:5291
+
+GET {{CurrencyExchangeAPI_HostAddress}}/api/currency/usd
+Accept: application/json
+###
